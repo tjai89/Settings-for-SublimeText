@@ -1,6 +1,7 @@
 Settings for Sublime Text3
 
 Packages:
+
 Packege Control: Put this in View > Show Console menu
 https://packagecontrol.io/installation#st3
 
@@ -10,11 +11,13 @@ by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20'
 please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) 
 
 Emmet:
+
     Open Command Palette in Sublime Text
     Pick “Install Package” command
     Find and install “Emmet” plugin
     
-SideBarEnhancements:    
+SideBarEnhancements:   
+
     Open Command Palette in Sublime Text
     Pick “Install Package” command
     Find and install “SideBarEnhancements” plugin
