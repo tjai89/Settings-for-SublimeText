@@ -27,7 +27,8 @@ SideBarEnhancements:
 Add tab validation to .rb files for 2 spaces instead of 4
 
  To limit this configuration to Ruby files, first open up a Ruby file in the editor, and then go to Preferences -> Settings -> More -> Syntax Specific -> User. This should open a settings window named Ruby.sublime-settings
-    {
-      "tab_size": 2,
-      "translate_tabs_to_spaces": true
-    }
+    
+     {
+       "tab_size": 2,
+       "translate_tabs_to_spaces": true
+     }
